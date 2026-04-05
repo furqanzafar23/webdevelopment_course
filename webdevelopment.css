@@ -1,0 +1,17 @@
+body{
+    margin: 1%;
+}
+.class{
+    text-align: center;
+    font-size: 250%;
+}
+h4{
+    font-size: 100%;
+}
+.bar{
+    font-size: 200% ;
+}
+footer{
+    text-align: center;
+    font-size: large;
+}
